@@ -31,7 +31,7 @@ export const AddCategory = ({ setCategories }) => {
     //  form para q no haga refresh cada ves q apretamos agregamos onSumit
 
     <form onSubmit={handleSumit}>
-      <h1> Busqueda GIF : {InputValue} </h1>
+      <h1> Busqueda GIFS 2021 : {InputValue} </h1>
       {/* // para escribir en un input usar onchange te avilita  */}
       <input type="text" value={InputValue} onChange={handleValue} />
     </form>
