@@ -9,4 +9,5 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById("root")
 );
-<div>sicronizando 2<div>
+//<div>sicronizando 5<div>
+ 
